@@ -1,3 +1,8 @@
-# learning-shell
-Learning Shell Scripting
-#practice shell scripting  
+Learn Shell Scripting
+--------------------
+Topics:
+1
+2
+3
+project setup
+
