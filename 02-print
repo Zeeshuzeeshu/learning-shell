@@ -6,4 +6,4 @@ echo Hello Zeeshan Bhai
 #Printing line by line Statment
 #syntax : echo -e input ,/nInput2, /nInput3
 
-echo -e" Hello,/nGoodmorning,/nZeeshan"
+echo -e" Hello,\nGoodmorning,\nZeeshan"
