@@ -1,3 +1,9 @@
 #!/bin/bash
-echo Hello World
-echo " Zeeshan Hyder"
+#printing a line
+#sytax : echo Input
+echo Hello Zeeshan Bhai
+
+#Printing line by line Statment
+#syntax : echo -e input ,/nInput2, /nInput3
+
+echo -e "Asw,/n Zeeshan,/n Khairiyath"
