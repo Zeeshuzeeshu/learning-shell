@@ -1,3 +1,3 @@
 # learning-shell
 Learning Shell Scripting
-#practice shell 
+#practice shell scripting  
