@@ -5,5 +5,11 @@ a=110
 #Printing a Variable using echo Command
 echo $a
 #Arthimetic Substitution
+
 b=$((10+10))
+
+#command SUBS
+DATE=$(date +%f)
+echo today date is $DATE
+
 
