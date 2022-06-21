@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo script name = $0
+echo Script Name = $0
 echo First Input = $1
 echo Second Input = $2
 echo All Inputs = $*
