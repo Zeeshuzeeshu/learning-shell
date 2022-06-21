@@ -4,3 +4,5 @@ a=110
 
 #Printing a Variable using echo Command
 echo $a
+#Arthimetic Substitution
+b=((100+10))
