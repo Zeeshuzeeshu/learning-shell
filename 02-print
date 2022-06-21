@@ -12,6 +12,6 @@ echo -e "Hello,\n Goodmorning,\n Zeeshan"
 
 #syntax : echo -e "\e[COLm Message \e[om"
 
-echo -e "\e[32m Zeeshan in Green colour\e[0m "
+echo -e "\e[33m Zeeshan in Yellow colour\e[0m "
 
 echo -e " Zeeshan in Normal Colour"
