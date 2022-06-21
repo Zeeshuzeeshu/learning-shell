@@ -12,4 +12,8 @@ b=$((10+10))
 DATE=$(date +%F)
 echo today date is $DATE
 
+z=100
+readonly z
+z=200
+echo $a
 
