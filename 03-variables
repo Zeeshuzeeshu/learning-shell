@@ -1,0 +1,6 @@
+#!/bin/bash
+#Declaring Variable
+a=110
+
+#Printing a Variable using echo Command
+echo $a
