@@ -7,3 +7,11 @@ echo Hello Zeeshan Bhai
 #syntax : echo -e input ,/nInput2, /nInput3
 
 echo -e "Hello,\n Goodmorning,\n Zeeshan"
+
+#printing in colours
+
+#syntax : echo -e "\e[COLm Message \e[om"
+
+echo -e "\e[32m Zeeshan in Green colour\e[0m "
+
+echo -e " Zeeshan in Normal Colour"
