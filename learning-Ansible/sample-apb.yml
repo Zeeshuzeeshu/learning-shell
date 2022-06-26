@@ -1,10 +1,10 @@
--hosts : Databases
+-hosts : 3.237.198.15
  tasks :
    -ansible.builtin.debug:
      msg : " Hello Zeeshan "
 
  -name : Play book sample
-  hosts : Application
+  hosts : 3.237.198.15
   roles :
      -role A
      -role B
