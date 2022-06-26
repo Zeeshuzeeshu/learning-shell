@@ -7,3 +7,8 @@
     -name : print How are you?
      debug:
        msg: "How are you?"
+
+#name is an optional key ,but we use it
+#ansible.builtin.debug is a collection ; This is supported from 2.10 version - tHis is future ; will use this.
+#debug is module ; This is supported till 2.9 version - soon deprecate; will not consider.
+
