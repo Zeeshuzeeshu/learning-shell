@@ -1,0 +1,17 @@
+#!/bin/bash
+#printing a line
+#sytax : echo Input
+echo Hello Zeeshan Bhai
+
+#Printing line by line Statment
+#syntax : echo -e input ,/nInput2, /nInput3
+
+echo -e "Hello,\n Goodmorning,\n Zeeshan"
+
+#printing in colours
+
+#syntax : echo -e "\e[COLm Message \e[om"
+
+echo -e "\e[33m Zeeshan in Yellow colour\e[0m "
+
+echo -e " Zeeshan in Normal Colour"
