@@ -1,0 +1,10 @@
+-hosts : Databases
+ tasks :
+   -ansible.builtin.debug:
+     msg : " Hello Zeeshan "
+
+ -name : Play book sample
+  hosts : Application
+  roles :
+     -role A
+     -role B
