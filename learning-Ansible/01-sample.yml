@@ -4,6 +4,6 @@
     -name : print hello Zeeshan
     ansible.builtin.debug:
       msg : "Hello Zeeshan"
-     -name : print How are you?
+    -name : print How are you?
      debug:
        msg: "How are you?"
